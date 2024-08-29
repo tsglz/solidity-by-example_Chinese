@@ -16,6 +16,9 @@ Solidity是一种类似于JavaScript的面向对象语言，具有与其他高�
 
 使用Solidity，开发人员可以构建去中心化应用程序（DApps），这些应用程序可以为用户提供更安全、更透明和更可靠的服务。由于Solidity具有向后兼容性，因此开发人员可以轻松地升级他们的智能合约以实现更好的性能和更丰富的功能。
 
+---
+[solidity-by-example](https://solidity-by-example.org/) 是一个展示Solidity各种用法的仓库，本仓库是对于其英语版的翻译。 
+
 
 ## 🔖 施工计划
 详见 **[issues#2](https://github.com/Web3-Club/solidity-by-example_Chinese/issues/2)**
@@ -47,13 +50,10 @@ Solidity是一种类似于JavaScript的面向对象语言，具有与其他高�
 
 <a href="https://www.donate3.xyz/donateTo?cid=bafkreif5ecvwp7vanir2geib43nws7zvaac46rvlryzwwm47knutcv6xee" target="_blank"><img src="https://www.donate3.xyz/Donate3ToMe.svg" alt="Donate3 To Me"></a>
 
-您的钱包地址将出现在[赞助榜](https://github.com/Web3-Club/Sponsor)界面上。<br>  
-**感谢您对我们社区未来健康发展所作出的支持!**
+### Ethereum
 
-## 👏🏻 特别感谢 
-特别感谢我们的[Premium Sponser](https://github.com/Web3-Club/Sponsor/blob/main/Premium%20sponsors.md)
+                        0x663d5dafe4362927e6dab344e8953b0ad4439d3f
 
-<a href="https://abetterweb3.notion.site"><img src="https://user-images.githubusercontent.com/76860915/220133607-dddc3468-0cda-4065-bce3-3b275dfe6ad1.png" alt="abetterweb3">
 
 ### **社群宗旨**   
 #### **永远关注知识和技术的进步，而不是价格**<br>   
@@ -82,5 +82,8 @@ If you have any questions about licence or copyright, please read the LICENCE se
 ### [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode)<br>
 Built by China Web3-Club [contributors](https://github.com/Web3-Club/solidity-by-example_Chinese/graphs/contributors) with heart. <br> 
 Copyright © [solidity-by-example.org](https://solidity-by-example.org/)｜[@solidity-by-example](https://github.com/solidity-by-example)<br> 
-Chinese Translation copyright © 2023 &emsp; China [Web3-Club](https://github.com/Web3-Club)｜中国Web3知识社区<br> 
+Chinese Translation copyright © 2023-2024 &emsp; [Web3-Club](https://github.com/Web3-Club)<br> 
 ALL RIGHT RESERVED  
+
+
+
